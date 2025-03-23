@@ -1,2 +1,2 @@
-# TakrimCodes-websitemine
+# TakrimCodes-website
 my frist website
